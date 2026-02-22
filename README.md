@@ -1,0 +1,2 @@
+# openclaw-schwein
+openclaw workspace
